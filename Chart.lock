@@ -1,0 +1,6 @@
+dependencies:
+- name: jaeger-operator
+  repository: https://jaegertracing.github.io/helm-charts
+  version: 2.46.0
+digest: sha256:09ebd94fb2d9996a717d6d41e73432a249999fcdb68a3fe6288ee979416086e7
+generated: "2023-07-02T11:20:13.028035669+02:00"
